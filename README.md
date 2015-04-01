@@ -24,7 +24,7 @@ and dollars, _here_, for free.
     integrates seamlessly with Erlang's _nine nines_ runtime, so we got
     you covered there as well.
 
-## Distributed Systmemes ##
+## Distributed Systems ##
 
 Distributed Systems are the talk of the day. The more users your
 _TODO_ app has, the more scalability and distributed consensus you
